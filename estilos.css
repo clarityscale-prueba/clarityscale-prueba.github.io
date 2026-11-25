@@ -4,19 +4,19 @@
   (si cambias las tipografías, cambia también el enlace <link> en index.html y gracias.html).
 */
 :root {
-  --papel: #FAFAF7;          /* fondo de la página */
+  --papel: #F4F2ED;          /* fondo de la página: hueso cálido */
   --superficie: #FFFFFF;     /* fondo de la tarjeta del cuestionario */
-  --tinta: #1B2430;          /* texto principal */
-  --tinta-suave: #556070;    /* texto secundario */
-  --accion: #2747C9;         /* botones principales */
+  --tinta: #141414;          /* texto principal: casi negro */
+  --tinta-suave: #5C5A54;    /* texto secundario: gris piedra */
+  --accion: #141414;         /* botones principales: negro */
   --accion-texto: #FFFFFF;   /* texto sobre los botones */
-  --marcador: #FFE066;       /* resaltado de la respuesta elegida */
-  --whatsapp: #128C4A;       /* botón de WhatsApp */
+  --marcador: #DCD6C8;       /* resaltado de la respuesta elegida: piedra clara */
+  --whatsapp: #0E7A3E;       /* botón de WhatsApp */
   --error: #B42318;
 
-  --fuente-titulo: "Familjen Grotesk", "Arial Narrow", sans-serif;
-  --fuente-texto: "Atkinson Hyperlegible", Verdana, sans-serif;
-  --radio: 12px;
+  --fuente-titulo: "Cormorant Garamond", Georgia, serif;
+  --fuente-texto: "Inter", Arial, sans-serif;
+  --radio: 8px;
 }
 
 /* ---------- Base (no necesitas tocar de aquí para abajo) ---------- */
