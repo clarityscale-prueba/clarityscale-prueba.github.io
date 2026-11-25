@@ -106,7 +106,7 @@ window.FUNNEL = {
   },
 
   // URL de la aplicación web de Google Apps Script (termina en /exec). Se llena en el módulo 05.
-  apps_script_url: "",
+  apps_script_url: "https://script.google.com/macros/s/AKfycbynwurg56lywTcScDcd0JaEkSIPXpYsoWZdA28xJZpECR2vyRr3Abqzt_RHKA2ribaj9Q/exec",
 
   // WhatsApp donde la persona te escribe para pedir el contenido
   whatsapp: {
