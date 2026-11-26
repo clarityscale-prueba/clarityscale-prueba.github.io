@@ -102,7 +102,7 @@ window.FUNNEL = {
 
   // Meta: el ID de tu pixel (conjunto de datos). Se llena en el módulo 06.
   meta: {
-    pixel_id: ""
+    pixel_id: "1399855964775823"
   },
 
   // URL de la aplicación web de Google Apps Script (termina en /exec). Se llena en el módulo 05.
